@@ -1,0 +1,6 @@
+{
+  "name": "Frey",
+  "description": "An interactive, dark-pink themed soothing comfort website for Frey with randomized comforting quotes, soft background animations, a relaxed breathing exercise, virtual warmth generators, and an empathetic, supportive private listener.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
